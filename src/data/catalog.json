@@ -1,0 +1,346 @@
+{
+ "categories": [
+  {
+   "slug": "proteines",
+   "name": "Protéines",
+   "blurb": "Whey, isolats et caséine pour construire et réparer le muscle.",
+   "subs": [
+    {
+     "slug": "whey-protein",
+     "name": "Whey protéine",
+     "count": 19
+    },
+    {
+     "slug": "isolats-et-hydrolysats",
+     "name": "Isolats & hydrolysats",
+     "count": 17
+    },
+    {
+     "slug": "caseine-et-proteines-lentes",
+     "name": "Caséine",
+     "count": 1
+    }
+   ],
+   "count": 69
+  },
+  {
+   "slug": "gainers-prise-de-masse",
+   "name": "Prise de masse",
+   "blurb": "Gainers riches en calories pour les profils qui peinent à prendre du poids.",
+   "subs": [],
+   "count": 32
+  },
+  {
+   "slug": "creatine",
+   "name": "Créatine",
+   "blurb": "Le complément le plus étudié pour la force et la puissance.",
+   "subs": [
+    {
+     "slug": "creatine-monohydrate",
+     "name": "Créatine monohydrate",
+     "count": 35
+    },
+    {
+     "slug": "autres-formes-de-creatine",
+     "name": "Autres créatines",
+     "count": 2
+    }
+   ],
+   "count": 35
+  },
+  {
+   "slug": "acides-amines",
+   "name": "Acides aminés",
+   "blurb": "BCAA, EAA et glutamine pour la récupération.",
+   "subs": [
+    {
+     "slug": "eaa",
+     "name": "EAA",
+     "count": 9
+    },
+    {
+     "slug": "glutamine",
+     "name": "Glutamine",
+     "count": 8
+    },
+    {
+     "slug": "bcaa",
+     "name": "BCAA",
+     "count": 1
+    },
+    {
+     "slug": "autres-acides-amines",
+     "name": "Autres acides aminés",
+     "count": 1
+    }
+   ],
+   "count": 23
+  },
+  {
+   "slug": "boosters-et-pre-workout",
+   "name": "Pré-workout & boosters",
+   "blurb": "Énergie, congestion et focus avant l'entraînement.",
+   "subs": [
+    {
+     "slug": "testosterone-boosters",
+     "name": "Boosters de testostérone",
+     "count": 1
+    },
+    {
+     "slug": "energie-et-endurance",
+     "name": "Énergie & endurance",
+     "count": 1
+    }
+   ],
+   "count": 32
+  },
+  {
+   "slug": "bruleurs-de-graisse",
+   "name": "Brûleurs de graisse",
+   "blurb": "Thermogéniques, L-carnitine et fat blockers pour la sèche.",
+   "subs": [
+    {
+     "slug": "thermogeniques",
+     "name": "Thermogéniques",
+     "count": 6
+    },
+    {
+     "slug": "fat-blockers",
+     "name": "Fat blockers",
+     "count": 4
+    }
+   ],
+   "count": 16
+  },
+  {
+   "slug": "sante-et-bien-etre",
+   "name": "Santé & bien-être",
+   "blurb": "Vitamines, minéraux, oméga-3 et sommeil au quotidien.",
+   "subs": [
+    {
+     "slug": "multivitamines",
+     "name": "Multivitamines",
+     "count": 31
+    },
+    {
+     "slug": "mineraux",
+     "name": "Minéraux",
+     "count": 20
+    },
+    {
+     "slug": "omega-et-huiles-essentielles",
+     "name": "Oméga-3 & huiles",
+     "count": 10
+    },
+    {
+     "slug": "sante-articulaire",
+     "name": "Santé articulaire",
+     "count": 6
+    },
+    {
+     "slug": "sante-digestive",
+     "name": "Santé digestive",
+     "count": 3
+    },
+    {
+     "slug": "sommeil-et-relaxation",
+     "name": "Sommeil & relaxation",
+     "count": 3
+    }
+   ],
+   "count": 62
+  },
+  {
+   "slug": "accessoires-nutrition",
+   "name": "Accessoires",
+   "blurb": "Shakers et gourdes pour vos séances.",
+   "subs": [
+    {
+     "slug": "shakers-gourdes",
+     "name": "Shakers & gourdes",
+     "count": 6
+    }
+   ],
+   "count": 7
+  }
+ ],
+ "brands": [
+  {
+   "name": "GSN - GREAT SPORT NUTRITION",
+   "slug": "gsn-great-sport-nutrition",
+   "count": 70
+  },
+  {
+   "name": "REAL PHARM",
+   "slug": "real-pharm",
+   "count": 34
+  },
+  {
+   "name": "BIOTECH USA",
+   "slug": "biotech-usa",
+   "count": 20
+  },
+  {
+   "name": "ULTIMATE NUTRITION",
+   "slug": "ultimate-nutrition",
+   "count": 16
+  },
+  {
+   "name": "WEIGHT-WORLD",
+   "slug": "weight-world",
+   "count": 15
+  },
+  {
+   "name": "NUTREX RESEARCH",
+   "slug": "nutrex-research",
+   "count": 12
+  },
+  {
+   "name": "LUXURY NUTRITION",
+   "slug": "luxury-nutrition",
+   "count": 10
+  },
+  {
+   "name": "REDREX BIG RAMY LABS",
+   "slug": "redrex-big-ramy-labs",
+   "count": 9
+  },
+  {
+   "name": "BPI SPORT",
+   "slug": "bpi-sport",
+   "count": 9
+  },
+  {
+   "name": "KEVIN LEVRONE",
+   "slug": "kevin-levrone",
+   "count": 9
+  },
+  {
+   "name": "CREATOR NUTRITION",
+   "slug": "creator-nutrition",
+   "count": 7
+  },
+  {
+   "name": "OPTIMUM NUTRITION",
+   "slug": "optimum-nutrition",
+   "count": 6
+  },
+  {
+   "name": "MUSCLETECH",
+   "slug": "muscletech",
+   "count": 6
+  },
+  {
+   "name": "HOT NUTRITION",
+   "slug": "hot-nutrition",
+   "count": 6
+  },
+  {
+   "name": "MIRAVELLA",
+   "slug": "miravella",
+   "count": 6
+  },
+  {
+   "name": "WORTH IT NUTRITION",
+   "slug": "worth-it-nutrition",
+   "count": 5
+  },
+  {
+   "name": "HX NUTRITION",
+   "slug": "hx-nutrition",
+   "count": 5
+  },
+  {
+   "name": "UNIVERSAL NUTRITION",
+   "slug": "universal-nutrition",
+   "count": 3
+  },
+  {
+   "name": "OLIMP SPORT NUTRITION",
+   "slug": "olimp-sport-nutrition",
+   "count": 3
+  },
+  {
+   "name": "QUAMTRAX",
+   "slug": "quamtrax",
+   "count": 3
+  },
+  {
+   "name": "AZGARD NUTRITION",
+   "slug": "azgard-nutrition",
+   "count": 3
+  },
+  {
+   "name": "SCENIT",
+   "slug": "scenit",
+   "count": 3
+  },
+  {
+   "name": "RULE 1",
+   "slug": "rule-1",
+   "count": 3
+  },
+  {
+   "name": "IQ SUPPS",
+   "slug": "iq-supps",
+   "count": 2
+  },
+  {
+   "name": "ALLMAX",
+   "slug": "allmax",
+   "count": 2
+  },
+  {
+   "name": "DYMATIZE",
+   "slug": "dymatize",
+   "count": 1
+  },
+  {
+   "name": "CELLUCOR",
+   "slug": "cellucor",
+   "count": 1
+  },
+  {
+   "name": "NUTREND",
+   "slug": "nutrend",
+   "count": 1
+  },
+  {
+   "name": "PROACTIVE WORLDWIDE NUTRITION",
+   "slug": "proactive-worldwide-nutrition",
+   "count": 1
+  },
+  {
+   "name": "INSANE LABZ",
+   "slug": "insane-labz",
+   "count": 1
+  }
+ ],
+ "packGoals": [
+  {
+   "slug": "prise-de-masse",
+   "name": "Prise de masse"
+  },
+  {
+   "slug": "force-performance",
+   "name": "Force & performance"
+  },
+  {
+   "slug": "recuperation",
+   "name": "Récupération"
+  },
+  {
+   "slug": "bien-etre",
+   "name": "Bien-être au quotidien"
+  },
+  {
+   "slug": "seche",
+   "name": "Sèche & définition"
+  },
+  {
+   "slug": "debutant",
+   "name": "Débuter"
+  }
+ ],
+ "capturedAt": "2026-11-21T19:20:34.154Z"
+}
